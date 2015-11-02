@@ -1,0 +1,3296 @@
+{
+	"STOPLIST": {
+		"a": 1,
+		"able": 1,
+		"about": 1,
+		"across": 1,
+		"after": 1,
+		"all": 1,
+		"almost": 1,
+		"also": 1,
+		"am": 1,
+		"among": 1,
+		"an": 1,
+		"and": 1,
+		"any": 1,
+		"are": 1,
+		"as": 1,
+		"at": 1,
+		"be": 1,
+		"because": 1,
+		"been": 1,
+		"but": 1,
+		"by": 1,
+		"can": 1,
+		"cannot": 1,
+		"could": 1,
+		"dear": 1,
+		"did": 1,
+		"do": 1,
+		"does": 1,
+		"either": 1,
+		"else": 1,
+		"ever": 1,
+		"every": 1,
+		"for": 1,
+		"from": 1,
+		"get": 1,
+		"got": 1,
+		"had": 1,
+		"has": 1,
+		"have": 1,
+		"he": 1,
+		"her": 1,
+		"hers": 1,
+		"him": 1,
+		"his": 1,
+		"how": 1,
+		"however": 1,
+		"i": 1,
+		"if": 1,
+		"in": 1,
+		"into": 1,
+		"is": 1,
+		"it": 1,
+		"its": 1,
+		"just": 1,
+		"least": 1,
+		"let": 1,
+		"like": 1,
+		"likely": 1,
+		"may": 1,
+		"me": 1,
+		"might": 1,
+		"most": 1,
+		"must": 1,
+		"my": 1,
+		"neither": 1,
+		"no": 1,
+		"nor": 1,
+		"not": 1,
+		"of": 1,
+		"off": 1,
+		"often": 1,
+		"on": 1,
+		"only": 1,
+		"or": 1,
+		"other": 1,
+		"our": 1,
+		"own": 1,
+		"rather": 1,
+		"said": 1,
+		"say": 1,
+		"says": 1,
+		"she": 1,
+		"should": 1,
+		"since": 1,
+		"so": 1,
+		"some": 1,
+		"than": 1,
+		"that": 1,
+		"the": 1,
+		"their": 1,
+		"them": 1,
+		"then": 1,
+		"there": 1,
+		"these": 1,
+		"they": 1,
+		"this": 1,
+		"tis": 1,
+		"to": 1,
+		"too": 1,
+		"twas": 1,
+		"us": 1,
+		"wants": 1,
+		"was": 1,
+		"we": 1,
+		"were": 1,
+		"what": 1,
+		"when": 1,
+		"where": 1,
+		"which": 1,
+		"while": 1,
+		"who": 1,
+		"whom": 1,
+		"why": 1,
+		"will": 1,
+		"with": 1,
+		"would": 1,
+		"yet": 1,
+		"you": 1,
+		"your": 1
+	},
+	"FILES": {
+		"S01E10.html": {
+			"ACTIVE": 1,
+			"KEY": "S01E10",
+			"WCOUNT": 8
+		},
+		"S02E01.html": {
+			"ACTIVE": 1,
+			"KEY": "S02E01",
+			"WCOUNT": 8
+		},
+		"S02E07.html": {
+			"ACTIVE": 1,
+			"KEY": "S02E07",
+			"WCOUNT": 8
+		},
+		"S03E23.html": {
+			"ACTIVE": 1,
+			"KEY": "S03E23",
+			"WCOUNT": 8
+		},
+		"S04E02.html": {
+			"ACTIVE": 1,
+			"KEY": "S04E02",
+			"WCOUNT": 8
+		},
+		"S04E05.html": {
+			"ACTIVE": 1,
+			"KEY": "S04E05",
+			"WCOUNT": 8
+		},
+		"S05E01.html": {
+			"ACTIVE": 1,
+			"KEY": "S05E01",
+			"WCOUNT": 8
+		},
+		"S06E23.html": {
+			"ACTIVE": 1,
+			"KEY": "S06E23",
+			"WCOUNT": 8
+		},
+		"S07E01.html": {
+			"ACTIVE": 1,
+			"KEY": "S07E01",
+			"WCOUNT": 8
+		},
+		"S07E02.html": {
+			"ACTIVE": 1,
+			"KEY": "S07E02",
+			"WCOUNT": 8
+		}
+	},
+	"METADATA": {
+		"width": {
+			"S01E10.html": {
+				"viewport": {
+					"1": 1
+				}
+			},
+			"S02E01.html": {
+				"viewport": {
+					"1": 1
+				}
+			},
+			"S02E07.html": {
+				"viewport": {
+					"1": 1
+				}
+			},
+			"S03E23.html": {
+				"viewport": {
+					"1": 1
+				}
+			},
+			"S04E02.html": {
+				"viewport": {
+					"1": 1
+				}
+			},
+			"S04E05.html": {
+				"viewport": {
+					"1": 1
+				}
+			},
+			"S05E01.html": {
+				"viewport": {
+					"1": 1
+				}
+			},
+			"S06E23.html": {
+				"viewport": {
+					"1": 1
+				}
+			},
+			"S07E01.html": {
+				"viewport": {
+					"1": 1
+				}
+			},
+			"S07E02.html": {
+				"viewport": {
+					"1": 1
+				}
+			}
+		},
+		"device-width": {
+			"S01E10.html": {
+				"viewport": {
+					"2": 1
+				}
+			},
+			"S02E01.html": {
+				"viewport": {
+					"2": 1
+				}
+			},
+			"S02E07.html": {
+				"viewport": {
+					"2": 1
+				}
+			},
+			"S03E23.html": {
+				"viewport": {
+					"2": 1
+				}
+			},
+			"S04E02.html": {
+				"viewport": {
+					"2": 1
+				}
+			},
+			"S04E05.html": {
+				"viewport": {
+					"2": 1
+				}
+			},
+			"S05E01.html": {
+				"viewport": {
+					"2": 1
+				}
+			},
+			"S06E23.html": {
+				"viewport": {
+					"2": 1
+				}
+			},
+			"S07E01.html": {
+				"viewport": {
+					"2": 1
+				}
+			},
+			"S07E02.html": {
+				"viewport": {
+					"2": 1
+				}
+			}
+		},
+		"initial-scale": {
+			"S01E10.html": {
+				"viewport": {
+					"3": 1
+				}
+			},
+			"S02E01.html": {
+				"viewport": {
+					"3": 1
+				}
+			},
+			"S02E07.html": {
+				"viewport": {
+					"3": 1
+				}
+			},
+			"S03E23.html": {
+				"viewport": {
+					"3": 1
+				}
+			},
+			"S04E02.html": {
+				"viewport": {
+					"3": 1
+				}
+			},
+			"S04E05.html": {
+				"viewport": {
+					"3": 1
+				}
+			},
+			"S05E01.html": {
+				"viewport": {
+					"3": 1
+				}
+			},
+			"S06E23.html": {
+				"viewport": {
+					"3": 1
+				}
+			},
+			"S07E01.html": {
+				"viewport": {
+					"3": 1
+				}
+			},
+			"S07E02.html": {
+				"viewport": {
+					"3": 1
+				}
+			}
+		},
+		"1": {
+			"S01E10.html": {
+				"viewport": {
+					"4": 1
+				},
+				"description": {
+					"2": 1
+				}
+			},
+			"S02E01.html": {
+				"viewport": {
+					"4": 1
+				},
+				"description": {
+					"4": 1
+				}
+			},
+			"S02E07.html": {
+				"viewport": {
+					"4": 1
+				}
+			},
+			"S03E23.html": {
+				"viewport": {
+					"4": 1
+				}
+			},
+			"S04E02.html": {
+				"viewport": {
+					"4": 1
+				}
+			},
+			"S04E05.html": {
+				"viewport": {
+					"4": 1
+				}
+			},
+			"S05E01.html": {
+				"viewport": {
+					"4": 1
+				},
+				"description": {
+					"4": 1
+				}
+			},
+			"S06E23.html": {
+				"viewport": {
+					"4": 1
+				}
+			},
+			"S07E01.html": {
+				"viewport": {
+					"4": 1
+				},
+				"description": {
+					"4": 1
+				}
+			},
+			"S07E02.html": {
+				"viewport": {
+					"4": 1
+				}
+			}
+		},
+		"season": {
+			"S01E10.html": {
+				"description": {
+					"1": 1
+				}
+			},
+			"S02E01.html": {
+				"description": {
+					"1": 1
+				}
+			},
+			"S02E07.html": {
+				"description": {
+					"1": 1
+				}
+			},
+			"S03E23.html": {
+				"description": {
+					"1": 1
+				}
+			},
+			"S04E02.html": {
+				"description": {
+					"1": 1
+				}
+			},
+			"S04E05.html": {
+				"description": {
+					"1": 1
+				}
+			},
+			"S05E01.html": {
+				"description": {
+					"1": 1
+				}
+			},
+			"S06E23.html": {
+				"description": {
+					"1": 1
+				}
+			},
+			"S07E01.html": {
+				"description": {
+					"1": 1
+				}
+			},
+			"S07E02.html": {
+				"description": {
+					"1": 1
+				}
+			}
+		},
+		"episode": {
+			"S01E10.html": {
+				"description": {
+					"3": 1
+				}
+			},
+			"S02E01.html": {
+				"description": {
+					"3": 1
+				}
+			},
+			"S02E07.html": {
+				"description": {
+					"3": 1
+				}
+			},
+			"S03E23.html": {
+				"description": {
+					"3": 1
+				}
+			},
+			"S04E02.html": {
+				"description": {
+					"3": 1
+				}
+			},
+			"S04E05.html": {
+				"description": {
+					"3": 1
+				}
+			},
+			"S05E01.html": {
+				"description": {
+					"3": 1
+				}
+			},
+			"S06E23.html": {
+				"description": {
+					"3": 1
+				}
+			},
+			"S07E01.html": {
+				"description": {
+					"3": 1
+				}
+			},
+			"S07E02.html": {
+				"description": {
+					"3": 1
+				}
+			}
+		},
+		"10": {
+			"S01E10.html": {
+				"description": {
+					"4": 1
+				}
+			},
+			"S02E07.html": {
+				"originaldate": {
+					"2": 1
+				}
+			}
+		},
+		"s01e10": {
+			"S01E10.html": {
+				"key": {
+					"1": 1
+				}
+			}
+		},
+		"the": {
+			"S01E10.html": {
+				"episodename": {
+					"1": 1
+				},
+				"episodedescription": {
+					"21": 1
+				}
+			},
+			"S02E01.html": {
+				"episodename": {
+					"1": 1
+				},
+				"episodedescription": {
+					"19": 1
+				}
+			},
+			"S02E07.html": {
+				"episodename": {
+					"1": 1
+				},
+				"episodedescription": {
+					"9": 1,
+					"17": 1,
+					"24": 1
+				}
+			},
+			"S03E23.html": {
+				"episodename": {
+					"1": 1
+				}
+			},
+			"S04E02.html": {
+				"episodename": {
+					"1": 1
+				},
+				"episodedescription": {
+					"4": 1
+				}
+			},
+			"S04E05.html": {
+				"episodename": {
+					"1": 1
+				},
+				"episodedescription": {
+					"31": 1,
+					"35": 1
+				}
+			},
+			"S05E01.html": {
+				"episodename": {
+					"1": 1
+				},
+				"episodedescription": {
+					"1": 1,
+					"5": 1,
+					"37": 1
+				}
+			},
+			"S06E23.html": {
+				"episodename": {
+					"1": 1
+				},
+				"episodedescription": {
+					"24": 1
+				}
+			},
+			"S07E01.html": {
+				"episodename": {
+					"1": 1
+				}
+			},
+			"S07E02.html": {
+				"episodename": {
+					"1": 1
+				},
+				"episodedescription": {
+					"8": 1
+				}
+			}
+		},
+		"loobenfeld": {
+			"S01E10.html": {
+				"episodename": {
+					"2": 1
+				}
+			}
+		},
+		"decay": {
+			"S01E10.html": {
+				"episodename": {
+					"3": 1
+				}
+			}
+		},
+		"march": {
+			"S01E10.html": {
+				"originaldate": {
+					"1": 1
+				}
+			}
+		},
+		"24": {
+			"S01E10.html": {
+				"originaldate": {
+					"2": 1
+				}
+			},
+			"S03E23.html": {
+				"originaldate": {
+					"2": 1
+				}
+			}
+		},
+		"2008": {
+			"S01E10.html": {
+				"originaldate": {
+					"3": 1
+				}
+			},
+			"S02E01.html": {
+				"originaldate": {
+					"3": 1
+				}
+			},
+			"S02E07.html": {
+				"originaldate": {
+					"3": 1
+				}
+			}
+		},
+		"leonard": {
+			"S01E10.html": {
+				"episodedescription": {
+					"1": 1
+				}
+			},
+			"S02E01.html": {
+				"episodedescription": {
+					"1": 1,
+					"34": 1
+				}
+			},
+			"S03E23.html": {
+				"episodedescription": {
+					"10": 1
+				}
+			},
+			"S04E05.html": {
+				"episodedescription": {
+					"19": 1
+				}
+			},
+			"S07E01.html": {
+				"episodedescription": {
+					"7": 1
+				}
+			},
+			"S07E02.html": {
+				"episodedescription": {
+					"5": 1
+				}
+			}
+		},
+		"lies": {
+			"S01E10.html": {
+				"episodedescription": {
+					"2": 1
+				}
+			}
+		},
+		"to": {
+			"S01E10.html": {
+				"episodedescription": {
+					"3": 1,
+					"38": 1
+				}
+			},
+			"S02E07.html": {
+				"episodedescription": {
+					"20": 1,
+					"22": 1
+				}
+			},
+			"S03E23.html": {
+				"episodedescription": {
+					"12": 1
+				}
+			},
+			"S04E02.html": {
+				"episodedescription": {
+					"6": 1,
+					"22": 1,
+					"26": 1
+				}
+			},
+			"S04E05.html": {
+				"episodedescription": {
+					"14": 1,
+					"24": 1
+				}
+			},
+			"S05E01.html": {
+				"episodedescription": {
+					"22": 1
+				}
+			},
+			"S06E23.html": {
+				"episodedescription": {
+					"19": 1,
+					"38": 1
+				}
+			},
+			"S07E01.html": {
+				"episodedescription": {
+					"10": 1,
+					"26": 1
+				}
+			},
+			"S07E02.html": {
+				"episodedescription": {
+					"13": 1
+				}
+			}
+		},
+		"penny": {
+			"S01E10.html": {
+				"episodedescription": {
+					"4": 1
+				}
+			},
+			"S02E01.html": {
+				"episodedescription": {
+					"8": 1,
+					"28": 1
+				}
+			},
+			"S02E07.html": {
+				"episodedescription": {
+					"1": 1
+				}
+			},
+			"S03E23.html": {
+				"episodedescription": {
+					"1": 1
+				}
+			},
+			"S05E01.html": {
+				"episodedescription": {
+					"8": 1,
+					"16": 1
+				}
+			},
+			"S07E01.html": {
+				"episodedescription": {
+					"3": 1
+				}
+			},
+			"S07E02.html": {
+				"episodedescription": {
+					"18": 1
+				}
+			}
+		},
+		"so": {
+			"S01E10.html": {
+				"episodedescription": {
+					"5": 1,
+					"28": 1
+				}
+			}
+		},
+		"that": {
+			"S01E10.html": {
+				"episodedescription": {
+					"6": 1,
+					"20": 1
+				}
+			},
+			"S04E05.html": {
+				"episodedescription": {
+					"4": 1
+				}
+			}
+		},
+		"he": {
+			"S01E10.html": {
+				"episodedescription": {
+					"7": 1,
+					"29": 1
+				}
+			},
+			"S04E02.html": {
+				"episodedescription": {
+					"19": 1
+				}
+			},
+			"S04E05.html": {
+				"episodedescription": {
+					"5": 1,
+					"29": 1
+				}
+			}
+		},
+		"and": {
+			"S01E10.html": {
+				"episodedescription": {
+					"8": 1
+				}
+			},
+			"S02E01.html": {
+				"episodedescription": {
+					"11": 1
+				}
+			},
+			"S02E07.html": {
+				"episodedescription": {
+					"14": 1
+				}
+			},
+			"S03E23.html": {
+				"episodedescription": {
+					"17": 1
+				}
+			},
+			"S04E05.html": {
+				"episodedescription": {
+					"18": 1,
+					"22": 1
+				}
+			},
+			"S05E01.html": {
+				"episodedescription": {
+					"9": 1,
+					"32": 1
+				}
+			},
+			"S06E23.html": {
+				"episodedescription": {
+					"5": 1,
+					"36": 1
+				}
+			},
+			"S07E01.html": {
+				"episodedescription": {
+					"2": 1,
+					"20": 1
+				}
+			},
+			"S07E02.html": {
+				"episodedescription": {
+					"11": 1
+				}
+			}
+		},
+		"sheldon": {
+			"S01E10.html": {
+				"episodedescription": {
+					"9": 1,
+					"18": 1
+				}
+			},
+			"S02E01.html": {
+				"episodedescription": {
+					"21": 1
+				}
+			},
+			"S02E07.html": {
+				"episodedescription": {
+					"5": 1
+				}
+			},
+			"S03E23.html": {
+				"episodedescription": {
+					"21": 1
+				}
+			},
+			"S04E02.html": {
+				"episodedescription": {
+					"2": 1
+				}
+			},
+			"S04E05.html": {
+				"episodedescription": {
+					"1": 1
+				}
+			},
+			"S05E01.html": {
+				"episodedescription": {
+					"33": 1
+				}
+			},
+			"S06E23.html": {
+				"episodedescription": {
+					"37": 1
+				}
+			},
+			"S07E01.html": {
+				"episodedescription": {
+					"1": 1
+				}
+			},
+			"S07E02.html": {
+				"episodedescription": {
+					"1": 1
+				}
+			}
+		},
+		"can": {
+			"S01E10.html": {
+				"episodedescription": {
+					"10": 1
+				}
+			}
+		},
+		"get": {
+			"S01E10.html": {
+				"episodedescription": {
+					"11": 1
+				}
+			},
+			"S07E01.html": {
+				"episodedescription": {
+					"13": 1
+				}
+			}
+		},
+		"out": {
+			"S01E10.html": {
+				"episodedescription": {
+					"12": 1
+				}
+			},
+			"S02E01.html": {
+				"episodedescription": {
+					"25": 1
+				}
+			},
+			"S06E23.html": {
+				"episodedescription": {
+					"11": 1
+				}
+			}
+		},
+		"of": {
+			"S01E10.html": {
+				"episodedescription": {
+					"13": 1
+				}
+			},
+			"S03E23.html": {
+				"episodedescription": {
+					"5": 1
+				}
+			},
+			"S05E01.html": {
+				"episodedescription": {
+					"36": 1
+				}
+			},
+			"S06E23.html": {
+				"episodedescription": {
+					"9": 1,
+					"12": 1
+				}
+			},
+			"S07E02.html": {
+				"episodedescription": {
+					"20": 1
+				}
+			}
+		},
+		"watching": {
+			"S01E10.html": {
+				"episodedescription": {
+					"14": 1
+				}
+			}
+		},
+		"her": {
+			"S01E10.html": {
+				"episodedescription": {
+					"15": 1
+				}
+			},
+			"S02E07.html": {
+				"episodedescription": {
+					"7": 1
+				}
+			},
+			"S04E05.html": {
+				"episodedescription": {
+					"16": 1
+				}
+			},
+			"S05E01.html": {
+				"episodedescription": {
+					"31": 1
+				}
+			}
+		},
+		"perform": {
+			"S01E10.html": {
+				"episodedescription": {
+					"16": 1
+				}
+			}
+		},
+		"however": {
+			"S01E10.html": {
+				"episodedescription": {
+					"17": 1
+				}
+			}
+		},
+		"believes": {
+			"S01E10.html": {
+				"episodedescription": {
+					"19": 1
+				}
+			}
+		},
+		"lie": {
+			"S01E10.html": {
+				"episodedescription": {
+					"22": 1
+				}
+			}
+		},
+		"has": {
+			"S01E10.html": {
+				"episodedescription": {
+					"23": 1
+				}
+			},
+			"S03E23.html": {
+				"episodedescription": {
+					"2": 1
+				}
+			},
+			"S07E02.html": {
+				"episodedescription": {
+					"30": 1
+				}
+			}
+		},
+		"too": {
+			"S01E10.html": {
+				"episodedescription": {
+					"24": 1
+				}
+			}
+		},
+		"many": {
+			"S01E10.html": {
+				"episodedescription": {
+					"25": 1
+				}
+			}
+		},
+		"loose": {
+			"S01E10.html": {
+				"episodedescription": {
+					"26": 1
+				}
+			}
+		},
+		"ends": {
+			"S01E10.html": {
+				"episodedescription": {
+					"27": 1
+				}
+			},
+			"S02E01.html": {
+				"episodedescription": {
+					"9": 1
+				}
+			}
+		},
+		"comes": {
+			"S01E10.html": {
+				"episodedescription": {
+					"30": 1
+				}
+			}
+		},
+		"up": {
+			"S01E10.html": {
+				"episodedescription": {
+					"31": 1
+				}
+			},
+			"S04E05.html": {
+				"episodedescription": {
+					"27": 1
+				}
+			}
+		},
+		"with": {
+			"S01E10.html": {
+				"episodedescription": {
+					"32": 1
+				}
+			},
+			"S02E01.html": {
+				"episodedescription": {
+					"7": 1
+				}
+			},
+			"S03E23.html": {
+				"episodedescription": {
+					"9": 1
+				}
+			},
+			"S05E01.html": {
+				"episodedescription": {
+					"4": 1
+				}
+			},
+			"S07E01.html": {
+				"episodedescription": {
+					"17": 1
+				}
+			},
+			"S07E02.html": {
+				"episodedescription": {
+					"17": 1
+				}
+			}
+		},
+		"a": {
+			"S01E10.html": {
+				"episodedescription": {
+					"33": 1
+				}
+			},
+			"S02E01.html": {
+				"episodedescription": {
+					"31": 1
+				}
+			},
+			"S03E23.html": {
+				"episodedescription": {
+					"3": 1
+				}
+			},
+			"S04E02.html": {
+				"episodedescription": {
+					"11": 1,
+					"24": 1
+				}
+			},
+			"S04E05.html": {
+				"episodedescription": {
+					"8": 1,
+					"38": 1
+				}
+			},
+			"S06E23.html": {
+				"episodedescription": {
+					"1": 1,
+					"17": 1,
+					"29": 1
+				}
+			},
+			"S07E01.html": {
+				"episodedescription": {
+					"23": 1,
+					"27": 1
+				}
+			}
+		},
+		"new": {
+			"S01E10.html": {
+				"episodedescription": {
+					"34": 1
+				}
+			}
+		},
+		"unnecessarily": {
+			"S01E10.html": {
+				"episodedescription": {
+					"35": 1
+				}
+			}
+		},
+		"complex": {
+			"S01E10.html": {
+				"episodedescription": {
+					"36": 1
+				}
+			}
+		},
+		"one": {
+			"S01E10.html": {
+				"episodedescription": {
+					"37": 1
+				}
+			}
+		},
+		"replace": {
+			"S01E10.html": {
+				"episodedescription": {
+					"39": 1
+				}
+			}
+		},
+		"it": {
+			"S01E10.html": {
+				"episodedescription": {
+					"40": 1
+				}
+			}
+		},
+		"2": {
+			"S02E01.html": {
+				"description": {
+					"2": 1
+				}
+			},
+			"S02E07.html": {
+				"description": {
+					"2": 1
+				}
+			},
+			"S04E02.html": {
+				"description": {
+					"4": 1
+				}
+			},
+			"S07E02.html": {
+				"description": {
+					"4": 1
+				}
+			}
+		},
+		"s02e01": {
+			"S02E01.html": {
+				"key": {
+					"1": 1
+				}
+			}
+		},
+		"bad": {
+			"S02E01.html": {
+				"episodename": {
+					"2": 1
+				}
+			}
+		},
+		"fish": {
+			"S02E01.html": {
+				"episodename": {
+					"3": 1
+				}
+			}
+		},
+		"paradigm": {
+			"S02E01.html": {
+				"episodename": {
+					"4": 1
+				}
+			}
+		},
+		"september": {
+			"S02E01.html": {
+				"originaldate": {
+					"1": 1
+				}
+			},
+			"S04E02.html": {
+				"originaldate": {
+					"1": 1
+				}
+			},
+			"S05E01.html": {
+				"originaldate": {
+					"1": 1
+				}
+			},
+			"S07E01.html": {
+				"originaldate": {
+					"1": 1
+				}
+			},
+			"S07E02.html": {
+				"originaldate": {
+					"1": 1
+				}
+			}
+		},
+		"22": {
+			"S02E01.html": {
+				"originaldate": {
+					"2": 1
+				}
+			},
+			"S05E01.html": {
+				"originaldate": {
+					"2": 1
+				}
+			}
+		},
+		"becomes": {
+			"S02E01.html": {
+				"episodedescription": {
+					"2": 1
+				}
+			}
+		},
+		"concerned": {
+			"S02E01.html": {
+				"episodedescription": {
+					"3": 1
+				}
+			}
+		},
+		"when": {
+			"S02E01.html": {
+				"episodedescription": {
+					"4": 1,
+					"17": 1
+				}
+			},
+			"S02E07.html": {
+				"episodedescription": {
+					"4": 1
+				}
+			},
+			"S04E02.html": {
+				"episodedescription": {
+					"1": 1
+				}
+			},
+			"S04E05.html": {
+				"episodedescription": {
+					"10": 1
+				}
+			},
+			"S05E01.html": {
+				"episodedescription": {
+					"17": 1
+				}
+			},
+			"S07E02.html": {
+				"episodedescription": {
+					"4": 1
+				}
+			}
+		},
+		"his": {
+			"S02E01.html": {
+				"episodedescription": {
+					"5": 1
+				}
+			},
+			"S03E23.html": {
+				"episodedescription": {
+					"13": 1
+				}
+			},
+			"S04E02.html": {
+				"episodedescription": {
+					"8": 1,
+					"28": 1
+				}
+			},
+			"S05E01.html": {
+				"episodedescription": {
+					"28": 1
+				}
+			},
+			"S07E01.html": {
+				"episodedescription": {
+					"15": 1
+				}
+			},
+			"S07E02.html": {
+				"episodedescription": {
+					"15": 1,
+					"28": 1
+				}
+			}
+		},
+		"date": {
+			"S02E01.html": {
+				"episodedescription": {
+					"6": 1
+				}
+			},
+			"S06E23.html": {
+				"episodedescription": {
+					"2": 1
+				}
+			}
+		},
+		"abruptly": {
+			"S02E01.html": {
+				"episodedescription": {
+					"10": 1
+				}
+			}
+		},
+		"she": {
+			"S02E01.html": {
+				"episodedescription": {
+					"12": 1
+				}
+			},
+			"S05E01.html": {
+				"episodedescription": {
+					"18": 1
+				}
+			}
+		},
+		"starts": {
+			"S02E01.html": {
+				"episodedescription": {
+					"13": 1
+				}
+			}
+		},
+		"blowing": {
+			"S02E01.html": {
+				"episodedescription": {
+					"14": 1
+				}
+			}
+		},
+		"him": {
+			"S02E01.html": {
+				"episodedescription": {
+					"15": 1
+				}
+			},
+			"S04E05.html": {
+				"episodedescription": {
+					"13": 1,
+					"26": 1
+				}
+			},
+			"S07E02.html": {
+				"episodedescription": {
+					"21": 1
+				}
+			}
+		},
+		"off": {
+			"S02E01.html": {
+				"episodedescription": {
+					"16": 1
+				}
+			}
+		},
+		"told": {
+			"S02E01.html": {
+				"episodedescription": {
+					"18": 1
+				}
+			}
+		},
+		"truth": {
+			"S02E01.html": {
+				"episodedescription": {
+					"20": 1
+				}
+			}
+		},
+		"would": {
+			"S02E01.html": {
+				"episodedescription": {
+					"22": 1
+				}
+			}
+		},
+		"rather": {
+			"S02E01.html": {
+				"episodedescription": {
+					"23": 1
+				}
+			}
+		},
+		"move": {
+			"S02E01.html": {
+				"episodedescription": {
+					"24": 1
+				}
+			}
+		},
+		"than": {
+			"S02E01.html": {
+				"episodedescription": {
+					"26": 1
+				}
+			}
+		},
+		"keep": {
+			"S02E01.html": {
+				"episodedescription": {
+					"27": 1
+				}
+			}
+		},
+		"s": {
+			"S02E01.html": {
+				"episodedescription": {
+					"29": 1
+				}
+			},
+			"S02E07.html": {
+				"episodedescription": {
+					"30": 1
+				}
+			},
+			"S03E23.html": {
+				"episodedescription": {
+					"22": 1
+				}
+			},
+			"S05E01.html": {
+				"episodedescription": {
+					"11": 1
+				}
+			},
+			"S07E02.html": {
+				"episodedescription": {
+					"23": 1
+				}
+			}
+		},
+		"reasons": {
+			"S02E01.html": {
+				"episodedescription": {
+					"30": 1
+				}
+			}
+		},
+		"secret": {
+			"S02E01.html": {
+				"episodedescription": {
+					"32": 1
+				}
+			}
+		},
+		"from": {
+			"S02E01.html": {
+				"episodedescription": {
+					"33": 1
+				}
+			},
+			"S02E07.html": {
+				"episodedescription": {
+					"8": 1
+				}
+			},
+			"S05E01.html": {
+				"episodedescription": {
+					"7": 1
+				}
+			},
+			"S07E02.html": {
+				"episodedescription": {
+					"7": 1
+				}
+			}
+		},
+		"7": {
+			"S02E07.html": {
+				"description": {
+					"4": 1
+				}
+			},
+			"S07E01.html": {
+				"description": {
+					"2": 1
+				}
+			},
+			"S07E02.html": {
+				"description": {
+					"2": 1
+				}
+			}
+		},
+		"s02e07": {
+			"S02E07.html": {
+				"key": {
+					"1": 1
+				}
+			}
+		},
+		"panty": {
+			"S02E07.html": {
+				"episodename": {
+					"2": 1
+				}
+			}
+		},
+		"pi\u00f1ata": {
+			"S02E07.html": {
+				"episodename": {
+					"3": 1
+				}
+			}
+		},
+		"polarizationn": {
+			"S02E07.html": {
+				"episodename": {
+					"4": 1
+				}
+			}
+		},
+		"november": {
+			"S02E07.html": {
+				"originaldate": {
+					"1": 1
+				}
+			}
+		},
+		"plans": {
+			"S02E07.html": {
+				"episodedescription": {
+					"2": 1
+				}
+			}
+		},
+		"revenge": {
+			"S02E07.html": {
+				"episodedescription": {
+					"3": 1
+				}
+			}
+		},
+		"bans": {
+			"S02E07.html": {
+				"episodedescription": {
+					"6": 1
+				}
+			}
+		},
+		"guys": {
+			"S02E07.html": {
+				"episodedescription": {
+					"10": 1
+				}
+			}
+		},
+		"apartment": {
+			"S02E07.html": {
+				"episodedescription": {
+					"11": 1
+				}
+			}
+		},
+		"while": {
+			"S02E07.html": {
+				"episodedescription": {
+					"12": 1
+				}
+			}
+		},
+		"howard": {
+			"S02E07.html": {
+				"episodedescription": {
+					"13": 1
+				}
+			},
+			"S03E23.html": {
+				"episodedescription": {
+					"16": 1
+				}
+			},
+			"S04E05.html": {
+				"episodedescription": {
+					"21": 1
+				}
+			},
+			"S07E01.html": {
+				"episodedescription": {
+					"8": 1
+				}
+			},
+			"S07E02.html": {
+				"episodedescription": {
+					"22": 1
+				}
+			}
+		},
+		"raj": {
+			"S02E07.html": {
+				"episodedescription": {
+					"15": 1
+				}
+			},
+			"S03E23.html": {
+				"episodedescription": {
+					"18": 1
+				}
+			},
+			"S05E01.html": {
+				"episodedescription": {
+					"10": 1,
+					"26": 1
+				}
+			},
+			"S06E23.html": {
+				"episodedescription": {
+					"4": 1
+				}
+			},
+			"S07E01.html": {
+				"episodedescription": {
+					"12": 1
+				}
+			}
+		},
+		"use": {
+			"S02E07.html": {
+				"episodedescription": {
+					"16": 1
+				}
+			}
+		},
+		"latest": {
+			"S02E07.html": {
+				"episodedescription": {
+					"18": 1
+				}
+			},
+			"S07E02.html": {
+				"episodedescription": {
+					"24": 1
+				}
+			}
+		},
+		"technology": {
+			"S02E07.html": {
+				"episodedescription": {
+					"19": 1
+				}
+			},
+			"S04E02.html": {
+				"episodedescription": {
+					"5": 1
+				}
+			}
+		},
+		"try": {
+			"S02E07.html": {
+				"episodedescription": {
+					"21": 1
+				}
+			}
+		},
+		"find": {
+			"S02E07.html": {
+				"episodedescription": {
+					"23": 1
+				}
+			},
+			"S04E02.html": {
+				"episodedescription": {
+					"23": 1
+				}
+			}
+		},
+		"house": {
+			"S02E07.html": {
+				"episodedescription": {
+					"25": 1
+				}
+			}
+		},
+		"being": {
+			"S02E07.html": {
+				"episodedescription": {
+					"26": 1
+				}
+			}
+		},
+		"used": {
+			"S02E07.html": {
+				"episodedescription": {
+					"27": 1
+				}
+			}
+		},
+		"in": {
+			"S02E07.html": {
+				"episodedescription": {
+					"28": 1
+				}
+			},
+			"S04E05.html": {
+				"episodedescription": {
+					"7": 1,
+					"34": 1
+				}
+			},
+			"S06E23.html": {
+				"episodedescription": {
+					"27": 1
+				}
+			}
+		},
+		"america": {
+			"S02E07.html": {
+				"episodedescription": {
+					"29": 1
+				}
+			}
+		},
+		"next": {
+			"S02E07.html": {
+				"episodedescription": {
+					"31": 1
+				}
+			}
+		},
+		"top": {
+			"S02E07.html": {
+				"episodedescription": {
+					"32": 1
+				}
+			}
+		},
+		"model": {
+			"S02E07.html": {
+				"episodedescription": {
+					"33": 1
+				}
+			}
+		},
+		"3": {
+			"S03E23.html": {
+				"description": {
+					"2": 1
+				}
+			}
+		},
+		"23": {
+			"S03E23.html": {
+				"description": {
+					"4": 1
+				}
+			},
+			"S06E23.html": {
+				"description": {
+					"4": 1
+				}
+			}
+		},
+		"s03e23": {
+			"S03E23.html": {
+				"key": {
+					"1": 1
+				}
+			}
+		},
+		"lunar": {
+			"S03E23.html": {
+				"episodename": {
+					"2": 1
+				}
+			}
+		},
+		"excitation": {
+			"S03E23.html": {
+				"episodename": {
+					"3": 1
+				}
+			}
+		},
+		"may": {
+			"S03E23.html": {
+				"originaldate": {
+					"1": 1
+				}
+			},
+			"S06E23.html": {
+				"originaldate": {
+					"1": 1
+				}
+			}
+		},
+		"2010": {
+			"S03E23.html": {
+				"originaldate": {
+					"3": 1
+				}
+			},
+			"S04E02.html": {
+				"originaldate": {
+					"3": 1
+				}
+			},
+			"S04E05.html": {
+				"originaldate": {
+					"3": 1
+				}
+			}
+		},
+		"night": {
+			"S03E23.html": {
+				"episodedescription": {
+					"4": 1
+				}
+			},
+			"S05E01.html": {
+				"episodedescription": {
+					"12": 1
+				}
+			}
+		},
+		"angry": {
+			"S03E23.html": {
+				"episodedescription": {
+					"6": 1
+				}
+			}
+		},
+		"drunken": {
+			"S03E23.html": {
+				"episodedescription": {
+					"7": 1
+				}
+			}
+		},
+		"sex": {
+			"S03E23.html": {
+				"episodedescription": {
+					"8": 1
+				}
+			}
+		},
+		"much": {
+			"S03E23.html": {
+				"episodedescription": {
+					"11": 1
+				}
+			}
+		},
+		"confusion": {
+			"S03E23.html": {
+				"episodedescription": {
+					"14": 1
+				}
+			}
+		},
+		"meanwhile": {
+			"S03E23.html": {
+				"episodedescription": {
+					"15": 1
+				}
+			}
+		},
+		"search": {
+			"S03E23.html": {
+				"episodedescription": {
+					"19": 1
+				}
+			}
+		},
+		"for": {
+			"S03E23.html": {
+				"episodedescription": {
+					"20": 1
+				}
+			}
+		},
+		"perfect": {
+			"S03E23.html": {
+				"episodedescription": {
+					"23": 1
+				}
+			}
+		},
+		"match": {
+			"S03E23.html": {
+				"episodedescription": {
+					"24": 1
+				}
+			}
+		},
+		"online": {
+			"S03E23.html": {
+				"episodedescription": {
+					"25": 1
+				}
+			}
+		},
+		"4": {
+			"S04E02.html": {
+				"description": {
+					"2": 1
+				}
+			},
+			"S04E05.html": {
+				"description": {
+					"2": 1
+				}
+			}
+		},
+		"s04e02": {
+			"S04E02.html": {
+				"key": {
+					"1": 1
+				}
+			}
+		},
+		"cruciferous": {
+			"S04E02.html": {
+				"episodename": {
+					"2": 1
+				}
+			}
+		},
+		"vegetable": {
+			"S04E02.html": {
+				"episodename": {
+					"3": 1
+				}
+			}
+		},
+		"amplification": {
+			"S04E02.html": {
+				"episodename": {
+					"4": 1
+				}
+			}
+		},
+		"30": {
+			"S04E02.html": {
+				"originaldate": {
+					"2": 1
+				}
+			}
+		},
+		"calculates": {
+			"S04E02.html": {
+				"episodedescription": {
+					"3": 1
+				}
+			}
+		},
+		"download": {
+			"S04E02.html": {
+				"episodedescription": {
+					"7": 1
+				}
+			}
+		},
+		"consciousness": {
+			"S04E02.html": {
+				"episodedescription": {
+					"9": 1
+				}
+			}
+		},
+		"into": {
+			"S04E02.html": {
+				"episodedescription": {
+					"10": 1
+				}
+			},
+			"S07E02.html": {
+				"episodedescription": {
+					"26": 1
+				}
+			}
+		},
+		"robot": {
+			"S04E02.html": {
+				"episodedescription": {
+					"12": 1
+				}
+			}
+		},
+		"won": {
+			"S04E02.html": {
+				"episodedescription": {
+					"13": 1
+				}
+			}
+		},
+		"t": {
+			"S04E02.html": {
+				"episodedescription": {
+					"14": 1
+				}
+			}
+		},
+		"be": {
+			"S04E02.html": {
+				"episodedescription": {
+					"15": 1
+				}
+			}
+		},
+		"invented": {
+			"S04E02.html": {
+				"episodedescription": {
+					"16": 1
+				}
+			}
+		},
+		"soon": {
+			"S04E02.html": {
+				"episodedescription": {
+					"17": 1
+				}
+			}
+		},
+		"enough": {
+			"S04E02.html": {
+				"episodedescription": {
+					"18": 1
+				}
+			}
+		},
+		"desperately": {
+			"S04E02.html": {
+				"episodedescription": {
+					"20": 1
+				}
+			}
+		},
+		"tries": {
+			"S04E02.html": {
+				"episodedescription": {
+					"21": 1
+				}
+			},
+			"S07E01.html": {
+				"episodedescription": {
+					"9": 1
+				}
+			}
+		},
+		"way": {
+			"S04E02.html": {
+				"episodedescription": {
+					"25": 1
+				}
+			}
+		},
+		"increase": {
+			"S04E02.html": {
+				"episodedescription": {
+					"27": 1
+				}
+			}
+		},
+		"lifespan": {
+			"S04E02.html": {
+				"episodedescription": {
+					"29": 1
+				}
+			}
+		},
+		"5": {
+			"S04E05.html": {
+				"description": {
+					"4": 1
+				}
+			},
+			"S05E01.html": {
+				"description": {
+					"2": 1
+				}
+			}
+		},
+		"s04e05": {
+			"S04E05.html": {
+				"key": {
+					"1": 1
+				}
+			}
+		},
+		"desperation": {
+			"S04E05.html": {
+				"episodename": {
+					"2": 1
+				}
+			}
+		},
+		"emanation": {
+			"S04E05.html": {
+				"episodename": {
+					"3": 1
+				}
+			}
+		},
+		"october": {
+			"S04E05.html": {
+				"originaldate": {
+					"1": 1
+				}
+			}
+		},
+		"21": {
+			"S04E05.html": {
+				"originaldate": {
+					"2": 1
+				}
+			}
+		},
+		"is": {
+			"S04E05.html": {
+				"episodedescription": {
+					"2": 1,
+					"6": 1,
+					"30": 1
+				}
+			}
+		},
+		"scared": {
+			"S04E05.html": {
+				"episodedescription": {
+					"3": 1
+				}
+			}
+		},
+		"relationship": {
+			"S04E05.html": {
+				"episodedescription": {
+					"9": 1
+				}
+			},
+			"S06E23.html": {
+				"episodedescription": {
+					"41": 1
+				}
+			}
+		},
+		"amy": {
+			"S04E05.html": {
+				"episodedescription": {
+					"11": 1
+				}
+			},
+			"S05E01.html": {
+				"episodedescription": {
+					"14": 1
+				}
+			},
+			"S06E23.html": {
+				"episodedescription": {
+					"35": 1
+				}
+			},
+			"S07E01.html": {
+				"episodedescription": {
+					"19": 1
+				}
+			}
+		},
+		"asks": {
+			"S04E05.html": {
+				"episodedescription": {
+					"12": 1,
+					"20": 1
+				}
+			}
+		},
+		"meet": {
+			"S04E05.html": {
+				"episodedescription": {
+					"15": 1
+				}
+			}
+		},
+		"mother": {
+			"S04E05.html": {
+				"episodedescription": {
+					"17": 1
+				}
+			},
+			"S07E02.html": {
+				"episodedescription": {
+					"29": 1
+				}
+			}
+		},
+		"bernadette": {
+			"S04E05.html": {
+				"episodedescription": {
+					"23": 1
+				}
+			},
+			"S05E01.html": {
+				"episodedescription": {
+					"24": 1
+				}
+			},
+			"S07E01.html": {
+				"episodedescription": {
+					"21": 1
+				}
+			}
+		},
+		"set": {
+			"S04E05.html": {
+				"episodedescription": {
+					"25": 1
+				}
+			}
+		},
+		"because": {
+			"S04E05.html": {
+				"episodedescription": {
+					"28": 1
+				}
+			}
+		},
+		"only": {
+			"S04E05.html": {
+				"episodedescription": {
+					"32": 1
+				}
+			}
+		},
+		"person": {
+			"S04E05.html": {
+				"episodedescription": {
+					"33": 1
+				}
+			}
+		},
+		"group": {
+			"S04E05.html": {
+				"episodedescription": {
+					"36": 1
+				}
+			}
+		},
+		"without": {
+			"S04E05.html": {
+				"episodedescription": {
+					"37": 1
+				}
+			}
+		},
+		"girlfriend": {
+			"S04E05.html": {
+				"episodedescription": {
+					"39": 1
+				}
+			}
+		},
+		"s05e01": {
+			"S05E01.html": {
+				"key": {
+					"1": 1
+				}
+			}
+		},
+		"skank": {
+			"S05E01.html": {
+				"episodename": {
+					"2": 1
+				}
+			}
+		},
+		"reflex": {
+			"S05E01.html": {
+				"episodename": {
+					"3": 1
+				}
+			}
+		},
+		"analysis": {
+			"S05E01.html": {
+				"episodename": {
+					"4": 1
+				}
+			}
+		},
+		"2011": {
+			"S05E01.html": {
+				"originaldate": {
+					"3": 1
+				}
+			}
+		},
+		"gang": {
+			"S05E01.html": {
+				"episodedescription": {
+					"2": 1
+				}
+			}
+		},
+		"deal": {
+			"S05E01.html": {
+				"episodedescription": {
+					"3": 1
+				}
+			}
+		},
+		"fallout": {
+			"S05E01.html": {
+				"episodedescription": {
+					"6": 1
+				}
+			}
+		},
+		"together": {
+			"S05E01.html": {
+				"episodedescription": {
+					"13": 1
+				}
+			},
+			"S07E01.html": {
+				"episodedescription": {
+					"25": 1
+				}
+			}
+		},
+		"counsels": {
+			"S05E01.html": {
+				"episodedescription": {
+					"15": 1
+				}
+			}
+		},
+		"considers": {
+			"S05E01.html": {
+				"episodedescription": {
+					"19": 1
+				}
+			}
+		},
+		"moving": {
+			"S05E01.html": {
+				"episodedescription": {
+					"20": 1
+				}
+			}
+		},
+		"back": {
+			"S05E01.html": {
+				"episodedescription": {
+					"21": 1
+				}
+			}
+		},
+		"nebraska": {
+			"S05E01.html": {
+				"episodedescription": {
+					"23": 1
+				}
+			}
+		},
+		"confronts": {
+			"S05E01.html": {
+				"episodedescription": {
+					"25": 1
+				}
+			}
+		},
+		"about": {
+			"S05E01.html": {
+				"episodedescription": {
+					"27": 1
+				}
+			}
+		},
+		"crush": {
+			"S05E01.html": {
+				"episodedescription": {
+					"29": 1
+				}
+			}
+		},
+		"on": {
+			"S05E01.html": {
+				"episodedescription": {
+					"30": 1
+				}
+			},
+			"S06E23.html": {
+				"episodedescription": {
+					"28": 1
+				}
+			}
+		},
+		"takes": {
+			"S05E01.html": {
+				"episodedescription": {
+					"34": 1
+				}
+			},
+			"S06E23.html": {
+				"episodedescription": {
+					"7": 1
+				}
+			}
+		},
+		"charge": {
+			"S05E01.html": {
+				"episodedescription": {
+					"35": 1
+				}
+			}
+		},
+		"paintball": {
+			"S05E01.html": {
+				"episodedescription": {
+					"38": 1
+				}
+			}
+		},
+		"team": {
+			"S05E01.html": {
+				"episodedescription": {
+					"39": 1
+				}
+			}
+		},
+		"6": {
+			"S06E23.html": {
+				"description": {
+					"2": 1
+				}
+			}
+		},
+		"s06e23": {
+			"S06E23.html": {
+				"key": {
+					"1": 1
+				}
+			}
+		},
+		"love": {
+			"S06E23.html": {
+				"episodename": {
+					"2": 1
+				}
+			}
+		},
+		"spell": {
+			"S06E23.html": {
+				"episodename": {
+					"3": 1
+				}
+			}
+		},
+		"9": {
+			"S06E23.html": {
+				"originaldate": {
+					"2": 1
+				}
+			}
+		},
+		"2013": {
+			"S06E23.html": {
+				"originaldate": {
+					"3": 1
+				}
+			},
+			"S07E01.html": {
+				"originaldate": {
+					"3": 1
+				}
+			},
+			"S07E02.html": {
+				"originaldate": {
+					"3": 1
+				}
+			}
+		},
+		"between": {
+			"S06E23.html": {
+				"episodedescription": {
+					"3": 1
+				}
+			}
+		},
+		"lucy": {
+			"S06E23.html": {
+				"episodedescription": {
+					"6": 1
+				}
+			},
+			"S07E01.html": {
+				"episodedescription": {
+					"18": 1
+				}
+			}
+		},
+		"both": {
+			"S06E23.html": {
+				"episodedescription": {
+					"8": 1
+				}
+			}
+		},
+		"them": {
+			"S06E23.html": {
+				"episodedescription": {
+					"10": 1
+				}
+			}
+		},
+		"their": {
+			"S06E23.html": {
+				"episodedescription": {
+					"13": 1,
+					"40": 1
+				}
+			}
+		},
+		"comfort": {
+			"S06E23.html": {
+				"episodedescription": {
+					"14": 1
+				}
+			}
+		},
+		"zones": {
+			"S06E23.html": {
+				"episodedescription": {
+					"15": 1
+				}
+			}
+		},
+		"after": {
+			"S06E23.html": {
+				"episodedescription": {
+					"16": 1
+				}
+			}
+		},
+		"trip": {
+			"S06E23.html": {
+				"episodedescription": {
+					"18": 1
+				}
+			},
+			"S07E01.html": {
+				"episodedescription": {
+					"24": 1
+				}
+			}
+		},
+		"las": {
+			"S06E23.html": {
+				"episodedescription": {
+					"20": 1
+				}
+			}
+		},
+		"vegas": {
+			"S06E23.html": {
+				"episodedescription": {
+					"21": 1
+				}
+			}
+		},
+		"goes": {
+			"S06E23.html": {
+				"episodedescription": {
+					"22": 1
+				}
+			}
+		},
+		"awry": {
+			"S06E23.html": {
+				"episodedescription": {
+					"23": 1
+				}
+			}
+		},
+		"girls": {
+			"S06E23.html": {
+				"episodedescription": {
+					"25": 1
+				}
+			}
+		},
+		"join": {
+			"S06E23.html": {
+				"episodedescription": {
+					"26": 1
+				}
+			}
+		},
+		"dungeons": {
+			"S06E23.html": {
+				"episodedescription": {
+					"30": 1
+				}
+			}
+		},
+		"dragons": {
+			"S06E23.html": {
+				"episodedescription": {
+					"31": 1
+				}
+			}
+		},
+		"game": {
+			"S06E23.html": {
+				"episodedescription": {
+					"32": 1
+				}
+			}
+		},
+		"which": {
+			"S06E23.html": {
+				"episodedescription": {
+					"33": 1
+				}
+			}
+		},
+		"causes": {
+			"S06E23.html": {
+				"episodedescription": {
+					"34": 1
+				}
+			}
+		},
+		"reevaluate": {
+			"S06E23.html": {
+				"episodedescription": {
+					"39": 1
+				}
+			}
+		},
+		"s07e01": {
+			"S07E01.html": {
+				"key": {
+					"1": 1
+				}
+			}
+		},
+		"hofstadter": {
+			"S07E01.html": {
+				"episodename": {
+					"2": 1
+				}
+			}
+		},
+		"insufficiency": {
+			"S07E01.html": {
+				"episodename": {
+					"3": 1
+				}
+			}
+		},
+		"26": {
+			"S07E01.html": {
+				"originaldate": {
+					"2": 1
+				}
+			},
+			"S07E02.html": {
+				"originaldate": {
+					"2": 1
+				}
+			}
+		},
+		"bond": {
+			"S07E01.html": {
+				"episodedescription": {
+					"4": 1
+				}
+			}
+		},
+		"over": {
+			"S07E01.html": {
+				"episodedescription": {
+					"5": 1,
+					"14": 1
+				}
+			}
+		},
+		"missing": {
+			"S07E01.html": {
+				"episodedescription": {
+					"6": 1
+				}
+			}
+		},
+		"help": {
+			"S07E01.html": {
+				"episodedescription": {
+					"11": 1
+				}
+			}
+		},
+		"breakup": {
+			"S07E01.html": {
+				"episodedescription": {
+					"16": 1
+				}
+			}
+		},
+		"take": {
+			"S07E01.html": {
+				"episodedescription": {
+					"22": 1
+				}
+			}
+		},
+		"biology": {
+			"S07E01.html": {
+				"episodedescription": {
+					"28": 1
+				}
+			}
+		},
+		"convention": {
+			"S07E01.html": {
+				"episodedescription": {
+					"29": 1
+				}
+			}
+		},
+		"s07e02": {
+			"S07E02.html": {
+				"key": {
+					"1": 1
+				}
+			}
+		},
+		"deception": {
+			"S07E02.html": {
+				"episodename": {
+					"2": 1
+				}
+			}
+		},
+		"verification": {
+			"S07E02.html": {
+				"episodename": {
+					"3": 1
+				}
+			}
+		},
+		"feels": {
+			"S07E02.html": {
+				"episodedescription": {
+					"2": 1
+				}
+			}
+		},
+		"betrayed": {
+			"S07E02.html": {
+				"episodedescription": {
+					"3": 1
+				}
+			}
+		},
+		"returns": {
+			"S07E02.html": {
+				"episodedescription": {
+					"6": 1
+				}
+			}
+		},
+		"north": {
+			"S07E02.html": {
+				"episodedescription": {
+					"9": 1
+				}
+			}
+		},
+		"sea": {
+			"S07E02.html": {
+				"episodedescription": {
+					"10": 1
+				}
+			}
+		},
+		"wants": {
+			"S07E02.html": {
+				"episodedescription": {
+					"12": 1
+				}
+			}
+		},
+		"spend": {
+			"S07E02.html": {
+				"episodedescription": {
+					"14": 1
+				}
+			}
+		},
+		"time": {
+			"S07E02.html": {
+				"episodedescription": {
+					"16": 1
+				}
+			}
+		},
+		"instead": {
+			"S07E02.html": {
+				"episodedescription": {
+					"19": 1
+				}
+			}
+		},
+		"foray": {
+			"S07E02.html": {
+				"episodedescription": {
+					"25": 1
+				}
+			}
+		},
+		"helping": {
+			"S07E02.html": {
+				"episodedescription": {
+					"27": 1
+				}
+			}
+		},
+		"some": {
+			"S07E02.html": {
+				"episodedescription": {
+					"31": 1
+				}
+			}
+		},
+		"disastrous": {
+			"S07E02.html": {
+				"episodedescription": {
+					"32": 1
+				}
+			}
+		},
+		"side": {
+			"S07E02.html": {
+				"episodedescription": {
+					"33": 1
+				}
+			}
+		},
+		"effects": {
+			"S07E02.html": {
+				"episodedescription": {
+					"34": 1
+				}
+			}
+		}
+	},
+	"WORDS": {
+		"--": {
+			"S01E10.html": {
+				"1": 1,
+				"11": 1
+			},
+			"S02E01.html": {
+				"1": 1,
+				"11": 1
+			},
+			"S02E07.html": {
+				"1": 1,
+				"11": 1
+			},
+			"S03E23.html": {
+				"1": 1,
+				"11": 1
+			},
+			"S04E02.html": {
+				"1": 1,
+				"11": 1
+			},
+			"S04E05.html": {
+				"1": 1,
+				"11": 1
+			},
+			"S05E01.html": {
+				"1": 1,
+				"11": 1
+			},
+			"S06E23.html": {
+				"1": 1,
+				"11": 1
+			},
+			"S07E01.html": {
+				"1": 1,
+				"11": 1
+			},
+			"S07E02.html": {
+				"1": 1,
+				"11": 1
+			}
+		},
+		"brand": {
+			"S01E10.html": {
+				"2": 1
+			},
+			"S02E01.html": {
+				"2": 1
+			},
+			"S02E07.html": {
+				"2": 1
+			},
+			"S03E23.html": {
+				"2": 1
+			},
+			"S04E02.html": {
+				"2": 1
+			},
+			"S04E05.html": {
+				"2": 1
+			},
+			"S05E01.html": {
+				"2": 1
+			},
+			"S06E23.html": {
+				"2": 1
+			},
+			"S07E01.html": {
+				"2": 1
+			},
+			"S07E02.html": {
+				"2": 1
+			}
+		},
+		"and": {
+			"S01E10.html": {
+				"3": 1
+			},
+			"S02E01.html": {
+				"3": 1
+			},
+			"S02E07.html": {
+				"3": 1
+			},
+			"S03E23.html": {
+				"3": 1
+			},
+			"S04E02.html": {
+				"3": 1
+			},
+			"S04E05.html": {
+				"3": 1
+			},
+			"S05E01.html": {
+				"3": 1
+			},
+			"S06E23.html": {
+				"3": 1
+			},
+			"S07E01.html": {
+				"3": 1
+			},
+			"S07E02.html": {
+				"3": 1
+			}
+		},
+		"toggle": {
+			"S01E10.html": {
+				"4": 1
+			},
+			"S02E01.html": {
+				"4": 1
+			},
+			"S02E07.html": {
+				"4": 1
+			},
+			"S03E23.html": {
+				"4": 1
+			},
+			"S04E02.html": {
+				"4": 1
+			},
+			"S04E05.html": {
+				"4": 1
+			},
+			"S05E01.html": {
+				"4": 1
+			},
+			"S06E23.html": {
+				"4": 1
+			},
+			"S07E01.html": {
+				"4": 1
+			},
+			"S07E02.html": {
+				"4": 1
+			}
+		},
+		"get": {
+			"S01E10.html": {
+				"5": 1
+			},
+			"S02E01.html": {
+				"5": 1
+			},
+			"S02E07.html": {
+				"5": 1
+			},
+			"S03E23.html": {
+				"5": 1
+			},
+			"S04E02.html": {
+				"5": 1
+			},
+			"S04E05.html": {
+				"5": 1
+			},
+			"S05E01.html": {
+				"5": 1
+			},
+			"S06E23.html": {
+				"5": 1
+			},
+			"S07E01.html": {
+				"5": 1
+			},
+			"S07E02.html": {
+				"5": 1
+			}
+		},
+		"grouped": {
+			"S01E10.html": {
+				"6": 1
+			},
+			"S02E01.html": {
+				"6": 1
+			},
+			"S02E07.html": {
+				"6": 1
+			},
+			"S03E23.html": {
+				"6": 1
+			},
+			"S04E02.html": {
+				"6": 1
+			},
+			"S04E05.html": {
+				"6": 1
+			},
+			"S05E01.html": {
+				"6": 1
+			},
+			"S06E23.html": {
+				"6": 1
+			},
+			"S07E01.html": {
+				"6": 1
+			},
+			"S07E02.html": {
+				"6": 1
+			}
+		},
+		"for": {
+			"S01E10.html": {
+				"7": 1
+			},
+			"S02E01.html": {
+				"7": 1
+			},
+			"S02E07.html": {
+				"7": 1
+			},
+			"S03E23.html": {
+				"7": 1
+			},
+			"S04E02.html": {
+				"7": 1
+			},
+			"S04E05.html": {
+				"7": 1
+			},
+			"S05E01.html": {
+				"7": 1
+			},
+			"S06E23.html": {
+				"7": 1
+			},
+			"S07E01.html": {
+				"7": 1
+			},
+			"S07E02.html": {
+				"7": 1
+			}
+		},
+		"better": {
+			"S01E10.html": {
+				"8": 1
+			},
+			"S02E01.html": {
+				"8": 1
+			},
+			"S02E07.html": {
+				"8": 1
+			},
+			"S03E23.html": {
+				"8": 1
+			},
+			"S04E02.html": {
+				"8": 1
+			},
+			"S04E05.html": {
+				"8": 1
+			},
+			"S05E01.html": {
+				"8": 1
+			},
+			"S06E23.html": {
+				"8": 1
+			},
+			"S07E01.html": {
+				"8": 1
+			},
+			"S07E02.html": {
+				"8": 1
+			}
+		},
+		"mobile": {
+			"S01E10.html": {
+				"9": 1
+			},
+			"S02E01.html": {
+				"9": 1
+			},
+			"S02E07.html": {
+				"9": 1
+			},
+			"S03E23.html": {
+				"9": 1
+			},
+			"S04E02.html": {
+				"9": 1
+			},
+			"S04E05.html": {
+				"9": 1
+			},
+			"S05E01.html": {
+				"9": 1
+			},
+			"S06E23.html": {
+				"9": 1
+			},
+			"S07E01.html": {
+				"9": 1
+			},
+			"S07E02.html": {
+				"9": 1
+			}
+		},
+		"display": {
+			"S01E10.html": {
+				"10": 1
+			},
+			"S02E01.html": {
+				"10": 1
+			},
+			"S02E07.html": {
+				"10": 1
+			},
+			"S03E23.html": {
+				"10": 1
+			},
+			"S04E02.html": {
+				"10": 1
+			},
+			"S04E05.html": {
+				"10": 1
+			},
+			"S05E01.html": {
+				"10": 1
+			},
+			"S06E23.html": {
+				"10": 1
+			},
+			"S07E01.html": {
+				"10": 1
+			},
+			"S07E02.html": {
+				"10": 1
+			}
+		}
+	}
+}
