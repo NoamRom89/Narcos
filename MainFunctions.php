@@ -397,7 +397,7 @@
 		
 		// If any other case, the query is illegal.
 		echo "<script type=\"text/javascript\">";
-		echo "	window.alert(\"Illegal query. Make sure all parentheses and operators are placed correctly.\")";
+		echo "	window.alert(\"Illegal query. Make sure all operators are placed correctly.\")";
 		echo "</script>";
 		return null;
 	
@@ -417,7 +417,7 @@
 					$stackToken = array_pop($calcStack);
 					if (empty($stackToken)){
 						echo "<script type=\"text/javascript\">";
-						echo "	window.alert(\"Parentheses mismatch.\")";
+						echo "	window.alert(\"Mismatch.\")";
 						echo "</script>";
 						return null;
 					}

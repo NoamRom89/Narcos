@@ -51,7 +51,6 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#" style="color: black;">Information Retrieval</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -112,7 +111,7 @@
 
 		<?php
 		if ($results["found"] == 'no'){
-		echo '<div class="col-sm-4 col-lg-4 col-md-4">';
+		echo '<div class="col-sm-4 col-lg-4 col-md-4" style="color: white;padding-top: 26px;font-size: 25px;">';
 			echo '<p>No Results</p>';
 			echo '</div>';
 		}

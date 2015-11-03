@@ -515,7 +515,8 @@
 					"1": 1
 				}
 			}
-		},
+		},/* Here start episde 10 season 1 - read the discription of the episode and split every word into a key */
+		                /* each key will have a value(object) which contains where the word was said --- still need to investigate*/
 		"the": {
 			"S01E10.html": {
 				"episodename": {
