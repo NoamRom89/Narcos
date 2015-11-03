@@ -21,7 +21,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
-    <title>Information Retrieval </title>
+    <title>Narcos - Documents</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">

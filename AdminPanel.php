@@ -22,7 +22,7 @@
 	<meta name="EpisodeDescription" content="Leonard, Howard, and Raj look through the papers of a deceased professor and reflect on his lack of accomplishments. Sheldon retires Fun With Flags, and Bernadette finds out what her boss really thinks of her."/>
 					
 
-    <title>The Big Bang Theory</title>
+    <title>Narcos - Admin</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -45,7 +45,7 @@
 <body>
 
     <!-- Navigation -->
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="background-color: red;">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
@@ -55,19 +55,19 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">Information Retrieval</a>
+                <a class="navbar-brand" href="#" style="color: black;">Information Retrieval</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="index.html">Home</a>
+                        <a href="index.html" style="color: black;">Home</a>
                     </li>
                     <li>
-                        <a href="ShowAllFiles.php?dir=DB">Documents</a>
+                        <a href="ShowAllFiles.php?dir=DB" style="color: black;">Documents</a>
                     </li>
                     <li>
-                        <a href="AdminPanel.php?dir=DB">Admin</a>
+                        <a href="AdminPanel.php?dir=DB" style="color: black;">Admin</a>
                     </li>
                 </ul>
             </div>
