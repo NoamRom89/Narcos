@@ -121,52 +121,98 @@
 		"your": 1
 	},
 	"FILES": {
-		"S01E10.html": {
+	  "S01E01.html": {
+		"ACTIVE": 1,
+		"KEY": "S01E01",
+		"WCOUNT": 8
+	  },
+	  "S01E02.html": {
+		"ACTIVE": 1,
+		"KEY": "S01E02",
+		"WCOUNT": 8
+	  },
+	  "S01E03.html": {
+		"ACTIVE": 1,
+		"KEY": "S01E03",
+		"WCOUNT": 8
+	  },
+	  "S01E04.html": {
+		"ACTIVE": 1,
+		"KEY": "S01E05",
+		"WCOUNT": 8
+	  },
+	  "S01E05.html": {
+		"ACTIVE": 1,
+		"KEY": "S01E05",
+		"WCOUNT": 8
+	  },
+	  "S01E06.html": {
+		"ACTIVE": 1,
+		"KEY": "S01E06",
+		"WCOUNT": 8
+	  },
+	  "S01E07.html": {
+		"ACTIVE": 1,
+		"KEY": "S01E07",
+		"WCOUNT": 8
+	  },
+	  "S01E08.html": {
+		"ACTIVE": 1,
+		"KEY": "S01E08",
+		"WCOUNT": 8
+	  },
+	  "S01E09.html": {
+		"ACTIVE": 1,
+		"KEY": "S01E09",
+		"WCOUNT": 8
+	  },
+
+	  "S01E10.html": {
 			"ACTIVE": 1,
 			"KEY": "S01E10",
 			"WCOUNT": 8
 		},
-		"S02E01.html": {
+	  "S02E01.html": {
 			"ACTIVE": 1,
 			"KEY": "S02E01",
 			"WCOUNT": 8
 		},
-		"S02E07.html": {
+	  "S02E07.html": {
 			"ACTIVE": 1,
 			"KEY": "S02E07",
 			"WCOUNT": 8
 		},
-		"S03E23.html": {
+	  "S03E23.html": {
 			"ACTIVE": 1,
 			"KEY": "S03E23",
 			"WCOUNT": 8
 		},
-		"S04E02.html": {
+	  "S04E02.html": {
 			"ACTIVE": 1,
 			"KEY": "S04E02",
 			"WCOUNT": 8
 		},
-		"S04E05.html": {
+	  "S04E05.html": {
 			"ACTIVE": 1,
 			"KEY": "S04E05",
 			"WCOUNT": 8
 		},
-		"S05E01.html": {
+	  "S05E01.html": {
 			"ACTIVE": 1,
 			"KEY": "S05E01",
 			"WCOUNT": 8
 		},
-		"S06E23.html": {
+	  "S06E23.html": {
 			"ACTIVE": 1,
 			"KEY": "S06E23",
 			"WCOUNT": 8
 		},
-		"S07E01.html": {
+	  "S07E01.html": {
 			"ACTIVE": 1,
 			"KEY": "S07E01",
 			"WCOUNT": 8
 		},
-		"S07E02.html": {
+	  "S07E02.html": {
 			"ACTIVE": 1,
 			"KEY": "S07E02",
 			"WCOUNT": 8
@@ -174,11 +220,56 @@
 	},
 	"METADATA": {
 		"width": {
-			"S01E10.html": {
+		  "S01E01.html": {
+			"viewport": {
+			  "1": 1
+			}
+		  },
+		  "S01E02.html": {
+			"viewport": {
+			  "1": 1
+			}
+		  },
+		  "S01E03.html": {
+			"viewport": {
+			  "1": 1
+			}
+		  },
+		  "S01E04.html": {
+			"viewport": {
+			  "1": 1
+			}
+		  },
+		  "S01E05.html": {
+			"viewport": {
+			  "1": 1
+			}
+		  },
+		  "S01E06.html": {
+			"viewport": {
+			  "1": 1
+			}
+		  },
+		  "S01E07.html": {
+			"viewport": {
+			  "1": 1
+			}
+		  },
+		  "S01E08.html": {
+			"viewport": {
+			  "1": 1
+			}
+		  },
+		  "S01E09.html": {
 				"viewport": {
 					"1": 1
 				}
 			},
+		  "S01E10.html": {
+			"viewport": {
+			  "1": 1
+			}
+		  },
 			"S02E01.html": {
 				"viewport": {
 					"1": 1
@@ -226,7 +317,52 @@
 			}
 		},
 		"device-width": {
-			"S01E10.html": {
+		  "S01E01.html": {
+			"viewport": {
+			  "2": 1
+			}
+		  },
+		  "S01E02.html": {
+			"viewport": {
+			  "2": 1
+			}
+		  },
+		  "S01E03.html": {
+			"viewport": {
+			  "2": 1
+			}
+		  },
+		  "S01E04.html": {
+			"viewport": {
+			  "2": 1
+			}
+		  },
+		  "S01E05.html": {
+			"viewport": {
+			  "2": 1
+			}
+		  },
+		  "S01E06.html": {
+			"viewport": {
+			  "2": 1
+			}
+		  },
+		  "S01E07.html": {
+			"viewport": {
+			  "2": 1
+			}
+		  },
+		  "S01E08.html": {
+			"viewport": {
+			  "2": 1
+			}
+		  },
+		  "S01E09.html": {
+			"viewport": {
+			  "2": 1
+			}
+		  },
+		  "S01E10.html": {
 				"viewport": {
 					"2": 1
 				}
@@ -278,7 +414,52 @@
 			}
 		},
 		"initial-scale": {
-			"S01E10.html": {
+		  "S01E01.html": {
+			"viewport": {
+			  "3": 1
+			}
+		  },
+		  "S01E02.html": {
+			"viewport": {
+			  "3": 1
+			}
+		  },
+		  "S01E03.html": {
+			"viewport": {
+			  "3": 1
+			}
+		  },
+		  "S01E04.html": {
+			"viewport": {
+			  "3": 1
+			}
+		  },
+		  "S01E05.html": {
+			"viewport": {
+			  "3": 1
+			}
+		  },
+		  "S01E06.html": {
+			"viewport": {
+			  "3": 1
+			}
+		  },
+		  "S01E07.html": {
+			"viewport": {
+			  "3": 1
+			}
+		  },
+		  "S01E08.html": {
+			"viewport": {
+			  "3": 1
+			}
+		  },
+		  "S01E09.html": {
+			"viewport": {
+			  "3": 1
+			}
+		  },
+		  "S01E10.html": {
 				"viewport": {
 					"3": 1
 				}
@@ -330,7 +511,79 @@
 			}
 		},
 		"1": {
-			"S01E10.html": {
+		  "S01E01.html": {
+			"viewport": {
+			  "4": 1
+			},
+			"description": {
+			  "2": 1
+			}
+		  },
+		  "S01E02.html": {
+			"viewport": {
+			  "4": 1
+			},
+			"description": {
+			  "4": 1
+			}
+		  },
+		  "S01E03.html": {
+			"viewport": {
+			  "4": 1
+			},
+			"description": {
+			  "4": 1
+			}
+		  },
+		  "S01E04.html": {
+			"viewport": {
+			  "4": 1
+			},
+			"description": {
+			  "4": 1
+			}
+		  },
+		  "S01E05.html": {
+			"viewport": {
+			  "4": 1
+			},
+			"description": {
+			  "4": 1
+			}
+		  },
+		  "S01E06.html": {
+			"viewport": {
+			  "4": 1
+			},
+			"description": {
+			  "4": 1
+			}
+		  },
+		  "S01E07.html": {
+			"viewport": {
+			  "4": 1
+			},
+			"description": {
+			  "4": 1
+			}
+		  },
+		  "S01E08.html": {
+			"viewport": {
+			  "4": 1
+			},
+			"description": {
+			  "4": 1
+			}
+		  },
+		  "S01E09.html": {
+			"viewport": {
+			  "4": 1
+			},
+			"description": {
+			  "4": 1
+			}
+		  },
+		  "S01E10.html": {
 				"viewport": {
 					"4": 1
 				},
@@ -394,7 +647,52 @@
 			}
 		},
 		"season": {
-			"S01E10.html": {
+		  "S01E01.html": {
+			"description": {
+			  "1": 1
+			}
+		  },
+		  "S01E02.html": {
+			"description": {
+			  "1": 1
+			}
+		  },
+		  "S01E03.html": {
+			"description": {
+			  "1": 1
+			}
+		  },
+		  "S01E04.html": {
+			"description": {
+			  "1": 1
+			}
+		  },
+		  "S01E05.html": {
+			"description": {
+			  "1": 1
+			}
+		  },
+		  "S01E06.html": {
+			"description": {
+			  "1": 1
+			}
+		  },
+		  "S01E07.html": {
+			"description": {
+			  "1": 1
+			}
+		  },
+		  "S01E08.html": {
+			"description": {
+			  "1": 1
+			}
+		  },
+		  "S01E09.html": {
+			"description": {
+			  "1": 1
+			}
+		  },
+		  "S01E10.html": {
 				"description": {
 					"1": 1
 				}
@@ -446,7 +744,52 @@
 			}
 		},
 		"episode": {
-			"S01E10.html": {
+		  "S01E01.html": {
+			"description": {
+			  "3": 1
+			}
+		  },
+		  "S01E02.html": {
+			"description": {
+			  "3": 1
+			}
+		  },
+		  "S01E03.html": {
+			"description": {
+			  "3": 1
+			}
+		  },
+		  "S01E04.html": {
+			"description": {
+			  "3": 1
+			}
+		  },
+		  "S01E05.html": {
+			"description": {
+			  "3": 1
+			}
+		  },
+		  "S01E06.html": {
+			"description": {
+			  "3": 1
+			}
+		  },
+		  "S01E07.html": {
+			"description": {
+			  "3": 1
+			}
+		  },
+		  "S01E08.html": {
+			"description": {
+			  "3": 1
+			}
+		  },
+		  "S01E09.html": {
+			"description": {
+			  "3": 1
+			}
+		  },
+		  "S01E10.html": {
 				"description": {
 					"3": 1
 				}
@@ -509,14 +852,183 @@
 				}
 			}
 		},
-		"s01e10": {
+	  	"s01e01": {
+		"S01E01.html": {
+		  "key": {
+			"1": 1
+		  }
+		}
+	  },
+	  	"Descenso":{
+		"S01E01.html": {
+		  "episodename": {
+			"1": 1
+		  }
+		}
+	  },
+		"Chilean":{
+		  "S01E01.html": {
+			"episodedescription": {
+			  "1": 1
+			}
+		  }
+		},
+		"drug":{
+		"S01E01.html": {
+		  "episodedescription": {
+			"2": 1,
+			"21":1
+		  }
+		}
+	  },
+		"chemist":{
+		  "S01E01.html": {
+			"episodedescription": {
+			  "3": 1
+			}
+		  }
+		},
+		"Cockroach":{
+		  "S01E01.html": {
+			"episodedescription": {
+			  "4": 1
+			}
+		  }
+		},
+		"brings":{
+		  "S01E01.html": {
+			"episodedescription": {
+			  "5": 1
+			}
+		  }
+		},
+		"his":{
+		  "S01E01.html": {
+			"episodedescription": {
+			  "6": 1
+			}
+		  }
+		},
+	  	"product":{
+		  "S01E01.html": {
+			"episodedescription": {
+			  "7": 1
+			}
+		  }
+		},
+		"to":{
+		  "S01E01.html": {
+			"episodedescription": {
+			  "8": 1
+			}
+		  }
+		},
+		"Colombian":{
+		  "S01E01.html": {
+			"episodedescription": {
+			  "9": 1
+			}
+		  }
+		},
+		"Pablo":{
+		  "S01E01.html": {
+			"episodedescription": {
+			  "10": 1
+			}
+		  }
+		},
+		"Escobar":{
+		  "S01E01.html": {
+			"episodedescription": {
+			  "11": 1
+			}
+		  }
+		},
+		"DEA":{
+		  "S01E01.html": {
+			"episodedescription": {
+			  "12": 1
+			}
+		  }
+		},
+		"agent":{
+		  "S01E01.html": {
+			"episodedescription": {
+			  "13": 1
+			}
+		  }
+		},
+		"Steve":{
+		  "S01E01.html": {
+			"episodedescription": {
+			  "14": 1
+			}
+		  }
+		},
+		"Murphy":{
+		  "S01E01.html": {
+			"episodedescription": {
+			  "15": 1
+			}
+		  }
+		},
+		"joins":{
+		  "S01E01.html": {
+			"episodedescription": {
+			  "16": 1
+			}
+		  }
+		},
+		"the":{
+		  "S01E01.html": {
+			"episodedescription": {
+			  "17": 1
+			}
+		  }
+		},
+		"war":{
+		  "S01E01.html": {
+			"episodedescription": {
+			  "18": 1
+			}
+		  }
+		},
+		"on":{
+		  "S01E01.html": {
+			"episodedescription": {
+			  "19": 1
+			}
+		  }
+		},
+		"drugs":{
+		  "S01E01.html": {
+			"episodedescription": {
+			  "20": 1
+			}
+		  }
+		},
+		"in":{
+		  "S01E01.html": {
+			"episodedescription": {
+			  "21": 1
+			}
+		  }
+		},
+		"Bogota":{
+			"S01E01.html": {
+		  "episodedescription": {
+			"22": 1
+		  }
+		}
+	  },
+
+	  "s01e10": {
 			"S01E10.html": {
 				"key": {
 					"1": 1
 				}
 			}
-		},/* Here start episde 10 season 1 - read the discription of the episode and split every word into a key */
-		                /* each key will have a value(object) which contains where the word was said --- still need to investigate*/
+		},
 		"the": {
 			"S01E10.html": {
 				"episodename": {

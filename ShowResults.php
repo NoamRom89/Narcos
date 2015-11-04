@@ -112,7 +112,7 @@
 		<?php
 		if ($results["found"] == 'no'){
 		echo '<div class="col-sm-4 col-lg-4 col-md-4" style="color: white;padding-top: 26px;font-size: 25px;">';
-			echo '<p>No Results</p>';
+			echo '<p>String was not found in any episode</p>';
 			echo '</div>';
 		}
 		else{
